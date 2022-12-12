@@ -28,7 +28,11 @@ There will be two parts to this project:
   
   ![Internet gateways](https://user-images.githubusercontent.com/102738849/207163786-b88a7863-c932-41d4-a312-d6da64fb6337.png)
   
-  2.6. Working LoadBalancer URL
+  2.6. Route Tabeles
+  
+  ![Route Tables](https://user-images.githubusercontent.com/102738849/207165043-9dd509d9-88db-4cae-ae57-570b9f1031a5.png)
+  
+  2.7. Working LoadBalancer URL
   
   ![WorkingProject](https://user-images.githubusercontent.com/102738849/207159027-3439563e-8c31-4b90-89ba-e74d5eec3b05.png)
 
