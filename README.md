@@ -1,4 +1,4 @@
-# Deploy-a-high-availability-web-app-using-CloudFormation and Infrastructure as code ( Iac )
+# Deploy-a-high-availability-web-app-using-CloudFormation-Infrastructure as code
 
 # scenario
 There will be two parts to this project:
