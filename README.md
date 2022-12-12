@@ -8,7 +8,7 @@ There will be two parts to this project:
 
 2. Script (Template and Parameters): The second part is to interpret the instructions and create a matching CloudFormation script.
 
-2.1 Two Stacks Created
+2.1. Two Stacks Created
   
   ![2Stacks](https://user-images.githubusercontent.com/102738849/207158313-66461e5f-5bf8-4715-8b6a-0db3ba628436.png)
 
@@ -24,7 +24,11 @@ There will be two parts to this project:
   
   ![EC2 Instances](https://user-images.githubusercontent.com/102738849/207158752-be4805f9-bc35-476b-a681-6ce0a2b6918a.png)
   
-  2.5. Working LoadBalancer URL
+  2.5. Internet gateways
+  
+  ![Internet gateways](https://user-images.githubusercontent.com/102738849/207163786-b88a7863-c932-41d4-a312-d6da64fb6337.png)
+  
+  2.6. Working LoadBalancer URL
   
   ![WorkingProject](https://user-images.githubusercontent.com/102738849/207159027-3439563e-8c31-4b90-89ba-e74d5eec3b05.png)
 
